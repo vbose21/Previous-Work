@@ -1,0 +1,1 @@
+This is a portfolio of all my previous major projects in classes. I haven't included my final project for Object Oriented Design because there are issues with uploading the folder to GitHub but the link to it is in my resume. 
